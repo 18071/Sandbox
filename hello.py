@@ -1,2 +1,2 @@
-for i in range(19):
+for i in range(190):
     print('Hello Konichchiwa')
